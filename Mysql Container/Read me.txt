@@ -1,0 +1,10 @@
+1. Install first pymysql library
+
+2. docker pull mysql databse from docker hub for making database container
+
+3. run the docker image as well as mysql image
+
+4.change the ip adress of python file match to docker mysql container, check container ip adress by command - docker inspect (your mysql container name)
+
+5. install Cryptography library also
+
